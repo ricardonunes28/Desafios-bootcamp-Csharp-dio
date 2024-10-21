@@ -25,5 +25,5 @@ Cada desafio é uma oportunidade de colocar em prática os conhecimentos adquiri
 
 ## Estrutura do Repositório
 
-A estrutura do repositório é organizada por pastas, sendo que cada pasta representa um desafio diferente. Abaixo está um exemplo de como a estrutura pode ser organizada:
+A estrutura do repositório é organizada por pastas, sendo que cada pasta representa um desafio diferente;
 
